@@ -1,0 +1,207 @@
+
+- AutoRespawn=OFF
+	AutoRespawn_KeyBind=0
+
+- ChestStealer=OFF
+	ChestStealer_KeyBind=0
+	CheststealerDelay=186.0
+	CheststealerIgnoreCustom=false
+
+- DeleteSigma=OFF
+	DeleteSigma_KeyBind=0
+
+- ChatBypass=OFF
+	ChatBypass_KeyBind=0
+	ChatbypassMode=Russian
+
+- AutoSetting=ON
+	AutoSetting_KeyBind=0
+	AutosettingServer=redesky
+
+- AutoClicker=ON
+	AutoClicker_KeyBind=0
+	AutoClickerAPS=40.0
+
+- AnimalAura=OFF
+	AnimalAura_KeyBind=45
+	AnimalAuraRange=4.0
+	AnimalAuraAPS=10.0
+	AnimalAuraNoSwing=false
+
+- LongJump2=OFF
+	LongJump2_KeyBind=0
+
+- ChatAbuse=OFF
+	ChatAbuse_KeyBind=25
+
+- WaterMark=ON
+	WaterMark_KeyBind=0
+	WaterMarkScale=1.044186046511628
+	WaterMarkX=4.0
+	WaterMarkY=4.0
+	WatermarkColorMode=astolfo
+	WatermarkRed=98.0
+	WatermarkGreen=16.0
+	WatermarkBlue=133.0
+
+- ViewModel=ON
+	ViewModel_KeyBind=0
+
+- AutoArmor=ON
+	AutoArmor_KeyBind=0
+
+- LongJump=OFF
+	LongJump_KeyBind=0
+
+- FastPlace=ON
+	FastPlace_KeyBind=33
+
+- BedNuker=OFF
+	BedNuker_KeyBind=48
+
+- FullBright=ON
+	FullBright_KeyBind=24
+
+- AutoWalk=OFF
+	AutoWalk_KeyBind=0
+
+- HellMode=OFF
+	HellMode_KeyBind=35
+
+- ArrayList=ON
+	ArrayList_KeyBind=0
+	EnabledmodulesTrimPos=Left
+	EnabledmodulesX=0.0
+	EnabledmodulesY=0.0
+	EnabledmodulesColorMode=Astolfo
+	EnabledmodulesRed=98.0
+	EnabledmodulesGreen=16.0
+	EnabledmodulesBlue=133.0
+	EnabledmodulesBackgroundAlpha=133.0
+
+- MobAura=OFF
+	MobAura_KeyBind=47
+
+- Particles=ON
+	Particles_KeyBind=0
+
+- AntiVoid=ON
+	AntiVoid_KeyBind=0
+
+- Disabler=OFF
+	Disabler_KeyBind=0
+	Redesky=4.0
+
+- Invmove=ON
+	Invmove_KeyBind=0
+
+- ClickGui=OFF
+	ClickGui_KeyBind=54
+	ClickguiColorMode=astolfo
+	ClickguiSound=true
+	ClickguiHidesTabgui=false
+	ClickguiRed=255.0
+	ClickguiGreen=26.0
+	ClickguiBlue=42.0
+
+- Criticals=OFF
+	Criticals_KeyBind=0
+
+- Scaffold=OFF
+	Scaffold_KeyBind=19
+
+- KillSults=ON
+	KillSults_KeyBind=0
+
+- AirJump=OFF
+	AirJump_KeyBind=0
+
+- ToxicFX=ON
+	ToxicFX_KeyBind=0
+
+- Velocity=ON
+	Velocity_KeyBind=0
+
+- Parkour=OFF
+	Parkour_KeyBind=0
+
+- KillAura=OFF
+	KillAura_KeyBind=44
+	KillauraMode=norotate
+	KillauraRange=6.232558139534884
+	KillauraAPS=70.0
+	KillauraTeams=true
+	KillauraTargetGUI=true
+	KillauraNoSwing=false
+	KillauraPlayersOnly=true
+	KillauraAutoBlock=true
+	KillauraDOD=true
+
+- FastEat=OFF
+	FastEat_KeyBind=0
+
+- Tabgui=ON
+	Tabgui_KeyBind=157
+	TabGuiPosX=10.0
+	TabGuiPosY=30.0
+	TabguiColorMode=astolfo
+	TabguiRed=98.0
+	TabguiGreen=16.0
+	TabguiBlue=133.0
+
+- Antibot=OFF
+	Antibot_KeyBind=0
+
+- Aimbot=OFF
+	Aimbot_KeyBind=21
+
+- NoClip=OFF
+	NoClip_KeyBind=0
+
+- Teams=OFF
+	Teams_KeyBind=0
+
+- NoFall=OFF
+	NoFall_KeyBind=50
+
+- Regen=OFF
+	Regen_KeyBind=0
+
+- Reach=ON
+	Reach_KeyBind=0
+	ReachReach=7.0813953488372094
+
+- Phase=OFF
+	Phase_KeyBind=0
+
+- Speed=OFF
+	Speed_KeyBind=0
+	SpeedMode=mineplex
+	SpeedVanillaSpeed=0.21395348837209305
+
+- Sprint=OFF
+	Sprint_KeyBind=0
+
+- Jesus=OFF
+	Jesus_KeyBind=0
+
+- WTap=ON
+	WTap_KeyBind=0
+
+- Timer=OFF
+	Timer_KeyBind=38
+	TimerSpeed=0.8767441860465117
+
+- Eagle=OFF
+	Eagle_KeyBind=23
+
+- HClip=OFF
+	HClip_KeyBind=0
+
+- ESP=OFF
+	ESP_KeyBind=0
+
+- Fly=OFF
+	Fly_KeyBind=34
+	FlyMode=timer
+	FlyTimerSpeed=1.0
